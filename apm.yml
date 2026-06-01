@@ -1,0 +1,15 @@
+name: java-to-react-modernizer
+version: 0.1.0
+description: >-
+  Verification-gated, security-reviewed migration of a Java application
+  (Spring/JSP/Stripes/servlets) to React/JavaScript. Ships an
+  orchestrator skill, cost-bound worker agents (planner / implementer /
+  security lenses / synth), deterministic build+SAST gates, and a
+  Copilot App workflow trigger.
+author: danielmeppiel
+license: MIT
+dependencies:
+  apm: []
+  mcp: []
+includes: auto
+scripts: {}

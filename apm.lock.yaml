@@ -1,0 +1,5 @@
+lockfile_version: '1'
+generated_at: '2026-06-01T12:23:08.076260+00:00'
+dependencies: []
+local_deployed_files:
+- copilot-app-db://workflows/apm--local--_local--java-to-react-modernizer

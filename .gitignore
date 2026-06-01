@@ -1,0 +1,8 @@
+# Demo subject app -- cloned for the migration demo, not part of the package.
+demo-app/
+
+# apm build output
+.github/
+AGENTS.md
+apm_modules/
+apm.lock
