@@ -1,0 +1,20 @@
+{
+  "name": "java-to-react-modernizer",
+  "owner": {
+    "name": "danielmeppiel",
+    "url": "https://github.com/danielmeppiel"
+  },
+  "plugins": [
+    {
+      "name": "java-to-react-modernizer",
+      "description": "Verification-gated, security-reviewed migration of a legacy Java application to React/JavaScript. Ships the orchestrator skill, cost-bound worker agents, and deterministic build+SAST gates.",
+      "version": "0.1.0",
+      "source": {
+        "source": "github",
+        "repo": "danielmeppiel/java-to-react-modernizer",
+        "ref": "v0.1.0",
+        "sha": "f32a4a0f2195af49578984a6a84a0ce2b9f43ea4"
+      }
+    }
+  ]
+}
